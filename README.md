@@ -1,2 +1,2 @@
-# Jya_013
-Pdfsummarizer
+# FocusForge
+A minimalist dark-themed Pomodoro timer with AI productivity check-ins.
